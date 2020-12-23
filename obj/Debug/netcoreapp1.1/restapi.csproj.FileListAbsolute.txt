@@ -1,0 +1,10 @@
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\bin\Debug\netcoreapp1.1\restapi.deps.json
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\bin\Debug\netcoreapp1.1\restapi.runtimeconfig.json
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\bin\Debug\netcoreapp1.1\restapi.runtimeconfig.dev.json
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\bin\Debug\netcoreapp1.1\restapi.dll
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\bin\Debug\netcoreapp1.1\restapi.pdb
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\obj\Debug\netcoreapp1.1\restapi.csprojAssemblyReference.cache
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\obj\Debug\netcoreapp1.1\restapi.csproj.CoreCompileInputs.cache
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\obj\Debug\netcoreapp1.1\restapi.AssemblyInfo.cs
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\obj\Debug\netcoreapp1.1\restapi.dll
+C:\Users\SONU PARSHAD\source\repos\restapi\restapi\obj\Debug\netcoreapp1.1\restapi.pdb
